@@ -1,3 +1,7 @@
 variable "variable" {
     value "new-branch" {}
 }
+
+variable "aaa" {
+    value "aaa" {}
+}
