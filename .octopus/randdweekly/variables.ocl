@@ -1,3 +1,7 @@
 variable "variable" {
     value "main" {}
 }
+
+variable "variable2" {
+    value "not secrets" {}
+}
